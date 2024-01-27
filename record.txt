@@ -1,0 +1,2 @@
+2024-01-26 learn to record file status using Git
+2024-01-27 try to push this txt file on github
